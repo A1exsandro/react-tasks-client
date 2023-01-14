@@ -10,6 +10,10 @@ In the project directory, you can run:
 
 ### `npm install --save react-bootstrap`
 
+npm install node-sass --save
+npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons --save
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
